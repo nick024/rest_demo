@@ -1,31 +1,24 @@
 {
-  "item": [
-    {
-      "id": 1,
-      "name": "Apfel",
-      "value": 11
-    }
-  ],
   "items": [
     {
-      "id": 1,
+      "id": "1+,
       "name": "Apfel",
-      "value": 11
+      "value": "11"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Banane",
-      "value": 22
+      "value": "22"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Birne",
-      "value": 33
+      "value": "33"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Orange",
-      "value": 44
+      "value": "44"
     }
   ],
   "marvel": [
