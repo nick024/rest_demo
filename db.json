@@ -1,5 +1,12 @@
 {
-  "Item": [
+  "item": [
+    {
+      "id": 1,
+      "name": "Apfel",
+      "value": 11
+    }
+  ],
+  "items": [
     {
       "id": 1,
       "name": "Apfel",
